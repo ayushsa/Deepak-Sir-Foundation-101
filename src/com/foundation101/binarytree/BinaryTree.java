@@ -1,4 +1,4 @@
-package com.adobe.binarytree.deepak.binaryTree;
+package com.foundation101.binarytree;
 
 import java.util.ArrayList;
 

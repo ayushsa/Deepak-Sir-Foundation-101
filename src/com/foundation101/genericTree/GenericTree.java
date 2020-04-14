@@ -1,4 +1,4 @@
-package com.adobe.binarytree.deepak.genericTree;
+package com.foundation101.genericTree;
 
 import java.util.ArrayList;
 
